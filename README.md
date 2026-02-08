@@ -122,7 +122,7 @@ If you use this systematic review in your research, please cite:
 ```bibtex
 @misc{adversarial-dynamics-genai-2024,
   title={Adversarial Dynamics in Generative AI: A Systematic Review},
-  author={[Author Names]},
+  author={Bokhtiar, Abir},
   year={2024},
   publisher={GitHub},
   url={https://github.com/AbirBokhtiar/Adversarial-Dynamics-in-GenAI}
